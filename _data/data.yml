@@ -7,7 +7,7 @@ basic:
   title:             # job title 
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/image.png # file path or link to your avatar
+    path: /assets/images/image.jpg # file path or link to your avatar
 
 contact:
   location: Taichung, Taiwan  # location, text or markdown link syntax
@@ -162,22 +162,22 @@ skill:
   description: |
 
   groups:
-    - name: Group A Skills
+    - name: FEA CAE
       item:
-        - Skill A
-        - Skill B
-        - Skill C
-        - Skill D
-    - name: Group B Skills
+        - Abaqus
+        - Ansys
+    - name: 2D/3D CAD
       item:
-        - Skill E
-        - Skill F
-        - Skill G
-    - name: Group C Skills
+        - AutoCAD
+        - SolidWorks
+        - Pro/E
+    - name: Python Framework
       item:
-        - Skill H
-        - Skill I
-
+        - Pytorch
+        - TensorFlow
+        - Scikit-learn
+        - Matplotlib
+        - Pandas
 education:
   show: true
   order: 5
