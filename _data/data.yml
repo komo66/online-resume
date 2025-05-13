@@ -134,8 +134,7 @@ project:
   order: 3
   title: Projects
   description: |
-    
-
+  
   items:
     - name: Tailoring Heterogeneous Structure to Enhance Strength-Ductility Synergy in Lightweight Ti-Rich Medium-Entropy Alloys with Ultra-High Specific Strength
       link: '#'
@@ -151,10 +150,7 @@ project:
       tags: committer
       date: 2022.10 - 2023.06
       description: |
-        OSS project description...
-        + First
-        + Second
-
+        Conducted industry-university research with ASE. A solution **(structural optimization)** was proposed to address the impact of warpage on yield, and an equivalent model with **97%** accuracy was established. This significantly improved traditional simulation processes for this type of production line, reducing the simulation time from hours to minutes.
 skill:
   show: true
   order: 4
@@ -191,9 +187,7 @@ education:
       major: Engineering Science
       degree: Master
       description: |
-        Additional information for this institution.
-        + First
-        + Second
+        + Material structure optimization design
 
     - institution: National Chung Hsing University
       link:
@@ -201,9 +195,6 @@ education:
       major: Bio-industrial Mechatronics Engineering
       degree: Bachelor
       description: |
-        Additional information for this institution.
-        + First
-        + Second
 
 certificate:
   show: false
