@@ -137,20 +137,19 @@ project:
   
   items:
     - name: Tailoring Heterogeneous Structure to Enhance Strength-Ductility Synergy in Lightweight Ti-Rich Medium-Entropy Alloys with Ultra-High Specific Strength
-      link: '#'
+      link: 
       tags: 
       date: 2022.01 - 2022.07
       description: |
         Personal project description...
-        + First
-        + Second
+
 
     - name: Effects of Warpage and Structural Optimization of Semiconductor Packaging
       link:
       tags: committer
       date: 2022.10 - 2023.06
       description: |
-        Conducted industry-university research with ASE. A solution **(structural optimization)** was proposed to address the impact of warpage on yield, and an equivalent model with **97%** accuracy was established. This significantly improved traditional simulation processes for this type of production line, reducing the simulation time from hours to minutes.
+        Conducted industry-academia research with ASE. A solution **(structural optimization)** was proposed to address the impact of warpage on yield, and an equivalent model with **97%** accuracy was established. Reducing the simulation time from hours to minutes.
 skill:
   show: true
   order: 4
