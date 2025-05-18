@@ -175,7 +175,7 @@ skill:
         - Pandas
 education:
   show: true
-  order: 5
+  order: 1
   title: Education
   description: |
   
@@ -332,8 +332,10 @@ evaluation:
   order: 13
   title: Activities
   description: |
-    + First
-    + Second
+    + Speaker at the 2022 CTAM(Conference on Theoretical and Applied Mechanics)
+    + NCKU ES Teaching Assistant for Engineering Graphics & Machine Learning in Engineering Science
+    + Activity Director of NCHU Yunlin-Chiayi Recreation and Counseling Club
+    
     
 reference:
   show: false
