@@ -124,8 +124,8 @@ experience:
       description: |
         **Material V&V, Tolerance Analysis**
         + First
-        + Second
-        Equipment and Material FEA & DFM
+        + 
+        **Equipment and Material FEA & DFM**
         + 
         
 
@@ -136,20 +136,20 @@ project:
   description: |
   
   items:
-    - name: Tailoring Heterogeneous Structure to Enhance Strength-Ductility Synergy in Lightweight Ti-Rich Medium-Entropy Alloys with Ultra-High Specific Strength
+    - name: Micromechanics Modeling of Creep Mechanism and Mechanical Behaviors of High Entropy Alloy
       link: 
       tags: 
       date: 2022.01 - 2022.07
       description: |
-        Personal project description...
+        Personal
 
 
     - name: Effects of Warpage and Structural Optimization of Semiconductor Packaging
       link:
-      tags: committer
+      tags: 
       date: 2022.10 - 2023.06
       description: |
-        Conducted industry-academia research with ASE. A solution **(structural optimization)** was proposed to address the impact of warpage on yield, and an equivalent model with **97%** accuracy was established. Reducing the simulation time from hours to minutes.
+        Conducted industry-academia research with ASE. A solution **(structural optimization)** was proposed to address the impact of warpage on yield, and an equivalent model with **97% accuracy** was established. Reducing the simulation time from hours to minutes.
 skill:
   show: true
   order: 4
