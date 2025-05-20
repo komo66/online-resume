@@ -136,7 +136,7 @@ project:
   description: |
   
   items:
-    - name: Micromechanics Modeling of Creep Mechanism and Mechanical Behaviors of High Entropy Alloy
+    - name: + Micromechanics Modeling of Creep Mechanism and Mechanical Behaviors of High Entropy Alloy
       link: 
       tags: 
       date: 2022.01 - 2022.07
@@ -144,7 +144,7 @@ project:
         Simulate creep mechanisms and mechanical behavior of FeCoNiCrMn high-entropy alloys. Fit experimental data to analyze grain boundary evolution and evaluated the influence of strain rate, material parameter, grain boundary diffusion parameter, and viscosity on the model.
 
 
-    - name: Effects of Warpage and Structural Optimization of Semiconductor Packaging
+    - name: + Effects of Warpage and Structural Optimization of Semiconductor Packaging
       link:
       tags: 
       date: 2022.10 - 2023.06
