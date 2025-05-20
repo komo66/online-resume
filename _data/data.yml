@@ -188,7 +188,7 @@ education:
       description: |
        **Material Structure Optimization Design Using Reinforcement Learning**
        
-       Optimize bioinspired structure design using **reinforcement learning** to iteratively improve configuration and performance. Validate a **22% increase** in mechanical strength through **FEA** and experiments. Applicable to **wearable devices** requiring flexibility and strength.
+       Optimize bioinspired structure design using **reinforcement learning** to iteratively **improve configuration and performance**. Validate a **22% increase** in mechanical strength through **FEA** and experiments. Applicable to **wearable devices** requiring flexibility and strength.
 
     - institution: National Chung Hsing University
       link:
