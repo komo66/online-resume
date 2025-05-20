@@ -149,7 +149,7 @@ project:
       tags: 
       date: 2022.10 - 2023.06
       description: |
-        + Conducted industry-academia research with **ASE**. Proposed a **structural optimization** solution to address the impact of warpage on yield and established an equivalent model with **97% accuracy**, **reducing simulation time from hours to minutes**.
+        + Conducted industry-academia research with **ASE**. Proposed a **structural optimization** solution to address the impact of warpage on yield and established an equivalent model with **97% accuracy**, reducing simulation time from hours to minutes.
 skill:
   show: true
   order: 4
