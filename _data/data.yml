@@ -141,7 +141,7 @@ project:
       tags: 
       date: 2022.01 - 2022.07
       description: |
-        **Simulate creep mechanisms and mechanical behavior** of FeCoNiCrMn high-entropy alloys. **Fit experimental data** to analyze grain boundary evolution and evaluated the influence of strain rate, material parameter, grain boundary diffusion parameter, and viscosity on the model.
+        + **Simulate creep mechanisms and mechanical behavior** of FeCoNiCrMn high-entropy alloys. **Fit experimental data** to analyze grain boundary evolution and evaluated the influence of strain rate, material parameter, grain boundary diffusion parameter, and viscosity on the model.
 
 
     - name: Effects of Warpage and Structural Optimization of Semiconductor Packaging
@@ -149,7 +149,7 @@ project:
       tags: 
       date: 2022.10 - 2023.06
       description: |
-        Conducted industry-academia research with **ASE**. Proposed a **structural optimization** solution to address the impact of warpage on yield and established an equivalent model with **97% accuracy**, **reducing simulation time from hours to minutes**.
+        + Conducted industry-academia research with **ASE**. Proposed a **structural optimization** solution to address the impact of warpage on yield and established an equivalent model with **97% accuracy**, **reducing simulation time from hours to minutes**.
 skill:
   show: true
   order: 4
@@ -188,7 +188,7 @@ education:
       description: |
        **Material Structure Optimization Design Using Reinforcement Learning**
        
-       Optimize bioinspired structure design using **reinforcement learning** to iteratively **improve configuration and performance**. Validate a **22% increase** in mechanical strength through **FEA** and experiments. Applicable to **wearable devices** requiring flexibility and strength.
+       + Optimize bioinspired structure design using **reinforcement learning** to iteratively **improve configuration and performance**. Validate a **22% increase** in mechanical strength through **FEA** and experiments. Applicable to **wearable devices** requiring flexibility and strength.
 
     - institution: National Chung Hsing University
       link:
